@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently a senior CS student at CUHK, and will go to CMU in 23 fall;
-- 🔭 I’m currently learning compilers, distributed systems, and DDIA;
+- 🌱 I’m currently a grad school student at CMU;
+- 🔭 I’m currently learning cloud infra, distributed systems, and DDIA;
 - 📫 How to reach me: me[at]cyzhu[dot]dev
 <!--
 **philipzhux/philipzhux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
