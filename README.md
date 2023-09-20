@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=philipzhux&exclude_repo=new_leetcode&langs_count=10&theme=transparent&layout=compact&bg_color=0d1117&hide_title=true&text_color=ffffff&hide_border=true&include_forks=true)](https://github.com/philipzhux/)
+![Top Langs](https://readme-stats-philipzhux.vercel.app/api/top-langs/?username=philipzhux&exclude_repo=new_leetcode&langs_count=10&theme=transparent&layout=compact&bg_color=0d1117&hide_title=true&text_color=ffffff&hide_border=true&include_forks=true&count_private=true)
 
 
