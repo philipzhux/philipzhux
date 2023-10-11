@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently a grad school student at CMU;
+- 🌱 I’m currently a grad student at CMU;
 - 🔭 I’m currently learning cloud infra, distributed systems, and DDIA;
 - 📫 How to reach me: me[at]cyzhu[dot]dev
 <!--
