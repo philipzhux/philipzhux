@@ -1,22 +1,11 @@
 ### Hi there 👋
 
-- 🌱 I’m currently a grad student at CMU;
-- 🔭 I’m currently learning cloud infra, distributed systems, and DDIA;
+- 🧑‍💻 I’m currently a Software Engineer at [Databricks](https://www.databricks.com/), working on **Delta Lake** and the **Spark engine**;
+- 🌱 I have a strong systems background, with interests in **distributed systems** and **ML systems infrastructure**;
+- 📚 I’m especially curious about the intersection of large-scale data processing and machine learning;
+- 🎓 Previously a grad student at **Carnegie Mellon University (CMU)**;
 - 📫 How to reach me: me[at]cyzhu[dot]dev
+
 <!--
 **philipzhux/philipzhux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
-![Top Langs](https://readme-stats-philipzhux.vercel.app/api/top-langs/?username=philipzhux&langs_count=12&theme=transparent&layout=compact&bg_color=0d1117&hide_title=true&text_color=ffffff&hide_border=true&count_private=true)
-
-
